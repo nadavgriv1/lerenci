@@ -1,2 +1,2 @@
 # lerenci
-leren ci in gitub
+leren ci in gitub for job interviu
